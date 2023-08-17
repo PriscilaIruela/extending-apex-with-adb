@@ -344,5 +344,7 @@ In our case we will verify that the coordinate of the proposed drone flight is n
 * You learned how to perform spatial validations by using Spatial SQL operators.
 
 ## Acknowledgements
-* **Author** - Jeroen Kloosterman, Technology Product Strategy Manager, Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center
-* **Last Updated By/Date** - Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center, April 2021
+- **Author**: Jeroen Kloosterman, Technology Product Strategy Director
+- **Contributor**: Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center
+- **Contributor**: Priscila Iruela, Technology Product Strategy Director
+- **Last Updated By/Date** - Priscila Iruela, Aug 2023

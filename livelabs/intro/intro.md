@@ -25,5 +25,7 @@ Watch our short video that explains the features of Autonomous Database for Orac
 - Click on **[Lab 1: Create an APEX Workspace](?lab=lab-1-create-apex-workspace)** to launch the first lab.
 
 ## Acknowledgements
-* **Author** - Juan Cabrera Eisman, Senior Technology Solution Engineer, Oracle Digital and Jeroen Kloosterman, Technology Product Strategy Manager, Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center
-* **Last Updated By/Date** - Tom McGinn, Database Innovations Architect, Database Product Management, July 2020
+- **Author**: Jeroen Kloosterman, Technology Product Strategy Director
+- **Contributor**: Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center
+- **Contributor**: Priscila Iruela, Technology Product Strategy Director
+- **Last Updated By/Date** - Priscila Iruela, Aug 2023

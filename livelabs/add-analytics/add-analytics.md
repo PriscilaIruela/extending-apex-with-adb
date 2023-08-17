@@ -434,6 +434,7 @@ Our goal is to integrate the "Labour" DV project inside of our APEX application.
 - You've learned how to integrate a DV project in an APEX application including deep linking.
 
 ## Acknowledgements
-* **Author** - Juan Cabrera Eisman, Senior Technology Solution Engineer, Oracle Digital, Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center
-* **Last Updated By/Date** - Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center, April 2021
-
+- **Author**: Jeroen Kloosterman, Technology Product Strategy Director
+- **Contributor**: Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center
+- **Contributor**: Priscila Iruela, Technology Product Strategy Director
+- **Last Updated By/Date** - Priscila Iruela, Aug 2023

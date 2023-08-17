@@ -92,5 +92,7 @@ Within your new database, APEX is not yet configured. Therefore, when you first 
 This completes the lab setup. At this point, you know how to create an APEX Workspace and you are ready to start building amazing apps, fast.
 
 ## Acknowledgements
-* **Author** - Juan Cabrera Eisman, Senior Technology Solution Engineer, Oracle Digital, Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center
-* **Last Updated By/Date** - Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center/ April 2021
+- **Author**: Jeroen Kloosterman, Technology Product Strategy Director
+- **Contributor**: Melanie Ashworth-March, Principal Sales Consultant, EMEA Oracle Solution Center
+- **Contributor**: Priscila Iruela, Technology Product Strategy Director
+- **Last Updated By/Date** - Priscila Iruela, Aug 2023
